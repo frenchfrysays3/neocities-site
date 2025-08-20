@@ -8,3 +8,5 @@ package.json
 # ignore Google Site Verification
 google4f576253ed24672d.html
 
+# VSCode settings
+.vscode/*
