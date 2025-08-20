@@ -1,0 +1,10 @@
+# Ignore Node.js modules
+node_modules/*
+
+# Ignore Node.js file
+package-lock.json
+package.json
+
+# ignore Google Site Verification
+google4f576253ed24672d.html
+
