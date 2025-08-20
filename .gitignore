@@ -1,7 +1,7 @@
 # Ignore Node.js modules
 node_modules/*
 
-# Ignore Node.js file
+# Ignore Node.js files
 package-lock.json
 package.json
 
