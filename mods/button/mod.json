@@ -1,0 +1,42 @@
+{
+	"geode": "4.6.2",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "frenchfrysays.button",
+	"name": "Button",
+	"version": "v2.1.1",
+	"developer": "frenchfrysays",
+	"description": "A Simple button that cycles through sound effects",
+	"dependencies": {
+		"geode.node-ids": "1.20.1"
+	},
+	"links": {
+		"source": "https://github.com/frenchfrysays3/button/",
+		"homepage": "https://frenchfrysays3.github.io/Mods/mods/button.html",
+		"community": "https://www.guilded.gg/i/E9x9gaop?cid=c47da16f-bae9-4ac3-a34e-fcef2cd7108a&intent=chat"
+	},
+	"tags": [
+		"interface",
+		"offline"
+	],
+	"resources": {
+		"spritesheets": {
+			"Square": [
+				"res/spritesheets/icons/Square/*.png"
+			],
+			"Rounded": [
+				"res/spritesheets/icons/Rounded/*.png"
+			],
+			"Circle": [
+				"res/spritesheets/icons/Circle/*.png"
+			]
+		},
+		"files": [
+			"res/SoundEffects/*.mp3"
+		]
+	}
+}
